@@ -1,0 +1,61 @@
+review_id,product_name,category,platform,source_type,text,rating,sentiment,date,likes,replies,country,verified_purchase
+P001,Smartphone X,Electronics,Amazon,Product Review,The product quality is excellent and works perfectly,5,Positive,2026-01-05,124,8,India,Verified
+P002,Smartphone X,Electronics,X,Social Media,"I love this phone, the battery lasts all day",5,Positive,2026-01-06,89,12,India,Unknown
+P003,Wireless Earbuds,Electronics,Amazon,Product Review,Fast delivery and great packaging,4,Positive,2026-01-07,42,3,India,Verified
+P004,Smartphone X,Electronics,Instagram,Social Media,Customer support solved my issue quickly,4,Positive,2026-01-08,65,5,India,Unknown
+P005,Smartphone X,Electronics,Amazon,Product Review,The camera quality is amazing,5,Positive,2026-01-09,76,6,India,Verified
+P006,Running Shoes,Fashion,Amazon,Product Review,Very comfortable shoes and good material,5,Positive,2026-01-10,31,2,India,Verified
+P007,Fitness App,Software,Google Play,App Review,This app is easy to use and very helpful,4,Positive,2026-01-11,27,4,India,Verified
+P008,Wireless Earbuds,Electronics,YouTube,Social Media,"Worth the money, highly recommended",5,Positive,2026-01-12,210,18,India,Unknown
+P009,Laptop Pro,Computers,Amazon,Product Review,The laptop performance is smooth,4,Positive,2026-01-13,56,7,India,Verified
+P010,Smartphone X,Electronics,Facebook,Social Media,Great experience with this brand,4,Positive,2026-01-14,45,3,India,Unknown
+P011,Wireless Earbuds,Electronics,Amazon,Product Review,The headphones sound clear and powerful,5,Positive,2026-01-15,63,9,India,Verified
+P012,Smartwatch,Electronics,Instagram,Social Media,Beautiful design and premium finish,5,Positive,2026-01-16,118,14,India,Unknown
+P013,Laptop Pro,Computers,Amazon,Product Review,The product exceeded my expectations,5,Positive,2026-01-17,38,4,India,Verified
+P014,Running Shoes,Fashion,Facebook,Social Media,I am happy with this purchase,4,Positive,2026-01-18,29,2,India,Unknown
+P015,Fitness App,Software,Google Play,App Review,Excellent service and quick response,5,Positive,2026-01-19,22,2,India,Verified
+P016,Fitness App,Software,X,Social Media,The new update makes the app much better,4,Positive,2026-01-20,92,11,India,Unknown
+P017,Food Delivery App,Software,Google Play,App Review,This restaurant delivered delicious food,4,Positive,2026-01-21,19,1,India,Verified
+P018,Laptop Pro,Computers,Amazon,Product Review,The screen is bright and sharp,5,Positive,2026-01-22,41,5,India,Verified
+P019,Smartwatch,Electronics,YouTube,Social Media,Good value for the price,4,Positive,2026-01-23,135,16,India,Unknown
+P020,Smartphone X,Electronics,Amazon,Product Review,Really impressed by the quality,5,Positive,2026-01-24,57,6,India,Verified
+N001,Smartphone X,Electronics,Amazon,Product Review,The product stopped working after one day,1,Negative,2026-02-01,88,22,India,Verified
+N002,Smartphone X,Electronics,X,Social Media,"Terrible battery life, very disappointed",1,Negative,2026-02-02,173,35,India,Unknown
+N003,Wireless Earbuds,Electronics,Amazon,Product Review,Delivery was late and the package was damaged,2,Negative,2026-02-03,47,9,India,Verified
+N004,Smartphone X,Electronics,Facebook,Social Media,Customer service was rude and unhelpful,1,Negative,2026-02-04,91,18,India,Unknown
+N005,Smartphone X,Electronics,Amazon,Product Review,The camera photos are blurry,2,Negative,2026-02-05,36,6,India,Verified
+N006,Running Shoes,Fashion,Amazon,Product Review,These shoes are uncomfortable and poorly made,1,Negative,2026-02-06,26,4,India,Verified
+N007,Fitness App,Software,Google Play,App Review,The app keeps crashing,1,Negative,2026-02-07,52,12,India,Verified
+N008,Wireless Earbuds,Electronics,YouTube,Social Media,"Waste of money, do not buy this",1,Negative,2026-02-08,234,41,India,Unknown
+N009,Laptop Pro,Computers,Amazon,Product Review,The laptop is slow and freezes often,2,Negative,2026-02-09,67,14,India,Verified
+N010,Smartphone X,Electronics,Instagram,Social Media,I regret buying this product,1,Negative,2026-02-10,112,27,India,Unknown
+N011,Wireless Earbuds,Electronics,Amazon,Product Review,The headphones have awful sound quality,1,Negative,2026-02-11,45,8,India,Verified
+N012,Smartwatch,Electronics,Facebook,Social Media,Cheap material and bad design,2,Negative,2026-02-12,59,11,India,Unknown
+N013,Laptop Pro,Computers,Amazon,Product Review,The product did not match the description,1,Negative,2026-02-13,72,16,India,Verified
+N014,Running Shoes,Fashion,X,Social Media,Very unhappy with this purchase,1,Negative,2026-02-14,98,19,India,Unknown
+N015,Fitness App,Software,Google Play,App Review,Support never replied to my complaint,1,Negative,2026-02-15,31,7,India,Verified
+N016,Fitness App,Software,X,Social Media,The latest update broke several features,2,Negative,2026-02-16,146,28,India,Unknown
+N017,Food Delivery App,Software,Google Play,App Review,The food arrived cold and tasted bad,1,Negative,2026-02-17,24,5,India,Verified
+N018,Laptop Pro,Computers,Amazon,Product Review,The screen has dead pixels,1,Negative,2026-02-18,63,13,India,Verified
+N019,Smartwatch,Electronics,YouTube,Social Media,Overpriced and not worth it,2,Negative,2026-02-19,121,25,India,Unknown
+N020,Smartphone X,Electronics,Amazon,Product Review,Poor quality and disappointing performance,1,Negative,2026-02-20,83,17,India,Verified
+U001,Smartphone X,Electronics,Amazon,Product Review,"The product is okay, nothing special",3,Neutral,2026-03-01,18,2,India,Verified
+U002,Smartphone X,Electronics,X,Social Media,Delivery arrived within the expected time,3,Neutral,2026-03-02,32,3,India,Unknown
+U003,Wireless Earbuds,Electronics,Amazon,Product Review,The battery lasts about six hours,3,Neutral,2026-03-03,21,2,India,Verified
+U004,Smartwatch,Electronics,Instagram,Social Media,The design is simple,3,Neutral,2026-03-04,49,5,India,Unknown
+U005,Laptop Pro,Computers,Amazon,Product Review,It has the basic features I need,3,Neutral,2026-03-05,16,1,India,Verified
+U006,Fitness App,Software,Google Play,App Review,The app works most of the time,3,Neutral,2026-03-06,27,4,India,Verified
+U007,Wireless Earbuds,Electronics,Amazon,Product Review,The package contained the listed items,3,Neutral,2026-03-07,12,1,India,Verified
+U008,Smartphone X,Electronics,Facebook,Social Media,The phone is available in three colors,3,Neutral,2026-03-08,36,2,India,Unknown
+U009,Wireless Earbuds,Electronics,YouTube,Social Media,The sound is neither too loud nor too quiet,3,Neutral,2026-03-09,58,6,India,Unknown
+U010,Laptop Pro,Computers,Amazon,Product Review,The product costs around fifty dollars,3,Neutral,2026-03-10,14,0,India,Verified
+U011,Smartwatch,Electronics,X,Social Media,I have used this brand before,3,Neutral,2026-03-11,44,3,India,Unknown
+U012,Smartphone X,Electronics,Amazon,Product Review,The screen size is 6.1 inches,3,Neutral,2026-03-12,20,1,India,Verified
+U013,Food Delivery App,Software,Google Play,App Review,The order status changed this morning,3,Neutral,2026-03-13,11,0,India,Verified
+U014,Laptop Pro,Computers,Amazon,Product Review,The laptop has 16 GB of memory,3,Neutral,2026-03-14,19,2,India,Verified
+U015,Running Shoes,Fashion,Amazon,Product Review,The instructions are included in the box,3,Neutral,2026-03-15,8,0,India,Verified
+U016,Smartphone X,Electronics,Facebook,Social Media,The product is currently in stock,3,Neutral,2026-03-16,25,2,India,Unknown
+U017,Fitness App,Software,Google Play,App Review,The app has a search and settings page,3,Neutral,2026-03-17,17,1,India,Verified
+U018,Running Shoes,Fashion,Instagram,Social Media,The shirt comes in medium and large sizes,3,Neutral,2026-03-18,28,4,India,Unknown
+U019,Smartwatch,Electronics,Amazon,Product Review,The seller offers a one-year warranty,3,Neutral,2026-03-19,13,1,India,Verified
+U020,Laptop Pro,Computers,Amazon,Product Review,I received the item yesterday,3,Neutral,2026-03-20,22,2,India,Verified
